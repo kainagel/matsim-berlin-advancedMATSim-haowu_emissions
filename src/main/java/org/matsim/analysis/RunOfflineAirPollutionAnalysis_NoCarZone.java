@@ -56,7 +56,7 @@ public class RunOfflineAirPollutionAnalysis_NoCarZone {
 	public static void main(String[] args) {
 		
 //		String rootDirectory = null;
-		String rootDirectory = "/Users/haowu/Workspace/git/advanced-MATSim_HA/Open-Berlin-Scenario_continuously-updated/Input";
+		String rootDirectory = "/Users/haowu/Workspace/git/advanced-MATSim_HA/Open-Berlin-Scenario_continuously-updated/matsim-berlin/scenarios/emissions-Input";
 
 //		if (args.length == 1) {
 //			rootDirectory = args[0];
